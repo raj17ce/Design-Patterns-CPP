@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strategy Pattern", "Strateg
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Command Pattern", "Command Pattern\Command Pattern.vcxproj", "{690EB8BC-6ACC-46E7-8AEE-E05E0EF955F2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Singleton Pattern", "Singleton Pattern\Singleton Pattern.vcxproj", "{FDF59F7B-AC76-4239-B222-59B99F778955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{690EB8BC-6ACC-46E7-8AEE-E05E0EF955F2}.Release|x64.Build.0 = Release|x64
 		{690EB8BC-6ACC-46E7-8AEE-E05E0EF955F2}.Release|x86.ActiveCfg = Release|Win32
 		{690EB8BC-6ACC-46E7-8AEE-E05E0EF955F2}.Release|x86.Build.0 = Release|Win32
+		{FDF59F7B-AC76-4239-B222-59B99F778955}.Debug|x64.ActiveCfg = Debug|x64
+		{FDF59F7B-AC76-4239-B222-59B99F778955}.Debug|x64.Build.0 = Debug|x64
+		{FDF59F7B-AC76-4239-B222-59B99F778955}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDF59F7B-AC76-4239-B222-59B99F778955}.Debug|x86.Build.0 = Debug|Win32
+		{FDF59F7B-AC76-4239-B222-59B99F778955}.Release|x64.ActiveCfg = Release|x64
+		{FDF59F7B-AC76-4239-B222-59B99F778955}.Release|x64.Build.0 = Release|x64
+		{FDF59F7B-AC76-4239-B222-59B99F778955}.Release|x86.ActiveCfg = Release|Win32
+		{FDF59F7B-AC76-4239-B222-59B99F778955}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
